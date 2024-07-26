@@ -8,8 +8,8 @@ live_config_reload = true
 TERM = "xterm-256color"
 
 [window]
-decorations = "Full"
-#decorations = "None"
+#decorations = "Full"
+decorations = "None"
 dynamic_padding = false
 opacity = 0.9
 title = "Alacritty"
