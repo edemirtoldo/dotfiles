@@ -1,0 +1,25 @@
+## Title
+#title = Ghostty
+
+## Window
+window-decoration = true
+#mouse-hide-while-typing = true
+window-padding-x = 0
+window-padding-y = 0
+macos-window-shadow = false
+
+## Clipboard
+clipboard-read = "allow"
+clipboard-paste-protection = false
+
+## Background
+background-opacity = 0.95
+
+## Theme
+theme = catppuccin-frappe
+font-family = JetBrainsMono Nerd Font Mono
+font-size = 12
+
+adjust-cell-width = 0
+adjust-cell-height = 20%
+
